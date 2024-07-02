@@ -9,9 +9,9 @@
 ## Skills
 
 **Languages:** Java, TypeScript, Rust, Python, C++<br/>
-**Frameworks:** Spring Boot, Angular, Node.js, Rocket, Tokio<br/>
+**Frameworks:** Spring Boot, Node.js, Angular, Rocket, Tokio<br/>
 **Cloud:** AWS, Docker<br/>
-**Databases:** SQLServer, PostgreSQL, DynamoDB, Redis<br/>
+**Databases:** DynamoDB, Redis, SQLServer, PostgreSQL<br/>
 
 ## GitHub Stats
 
