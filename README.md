@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Cyril Guerard
 
-🤖 I'm Senior Backend Developer at Behaviour Interactive.<br/>
+🤖 I'm Senior Backend Developer at Ubisoft.<br/>
 ❤️‍🔥 I’m passionated about designing and developing robust, low-latency, scalable microservices in AWS.<br/>
 👨‍💻 I’m currently working on a [NES emulator in Rust](https://github.com/cyrilguerard/pokunes).<br/>
 🌱 I’m currently learning Golang.<br/>
