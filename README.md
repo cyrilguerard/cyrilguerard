@@ -10,7 +10,7 @@
 
 **Languages:** Java, TypeScript, Rust, Python, C++<br/>
 **Frameworks:** Spring Boot, Node.js, Angular, Rocket, Tokio<br/>
-**Cloud:** AWS, Docker<br/>
+**Cloud:** AWS, Docker, Kubernetes<br/>
 **Databases:** DynamoDB, Redis, SQLServer, PostgreSQL<br/>
 
 ## GitHub Stats
